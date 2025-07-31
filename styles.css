@@ -1,0 +1,36 @@
+body {
+    line-height: 1.6;
+    font-size: 18px;
+    padding-top: 25px;
+    max-width: 400px;
+    margin: auto;
+    left: 10;
+    right: 10;
+}
+
+h1 {
+    text-align: center;
+    font-size: 36px;
+}
+
+main {
+  margin: auto;
+  width: 60%;
+  padding: 10px;
+}
+
+a {
+    color: #888;
+}
+
+code {
+    font-size: 85%;
+}
+
+p {
+    text-align: center;
+}
+
+footer {
+    border-top: 1px solid #888;
+}
