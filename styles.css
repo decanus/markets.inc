@@ -27,8 +27,9 @@ body {
     text-align: center;
 }
 
-footer {
-    border-top: 1px solid #888;
+.icon {
+    margin-top: 14px;
+    height: 18px;
 }
 
 .link:link { color: #0000EE; }
